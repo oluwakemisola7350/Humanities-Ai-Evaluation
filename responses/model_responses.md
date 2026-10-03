@@ -198,3 +198,81 @@ Employment Quality & Underemployment Rates:
 Access to Basic Public Services & Infrastructure:
 
 * Relevance: Tracks non-monetary elements of living standards, such as access to healthcare, electricity, clean water, and subsidized transportation.]
+
+
+## Question 4 — Competing Economic Mechanisms
+
+**Model evaluated:** Gemini
+
+**Date tested:** October 3, 2026
+
+**Prompt:**
+
+[You are being evaluated on your ability to reason from evidence.
+1. Answer the question using only the sources provided in the prompt.
+2. Distinguish clearly between information directly supported by a source and your own inference. 
+3. Do not introduce facts that cannot be supported by the provided sources. Where the evidence does not establish causation, say so explicitly.
+
+Sources
+
+* IMF — Nigeria: 2026 Article IV Consultation
+[https://www.imf.org/en/publications/cr/issues/2026/06/08/nigeria-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-576681]
+
+* World Bank — Nigeria Development Update, April 2026
+[https://openknowledge.worldbank.org/entities/publication/87d25440-6887-44dc-a83c-fdb931a9b7ee]
+
+* National Bureau of Statistics (NBS) — Consumer Price Index (CPI)
+[https://microdata.nigerianstat.gov.ng/index.php/catalog/154]
+
+Question — Competing Economic Mechanisms
+
+1. The IMF explains that higher global fuel, food, and fertilizer prices can affect Nigeria through multiple channels, including effects on exports and government revenues as well as inflationary pressures and risks to poverty and food security.
+
+2. Explain how these apparently opposing effects can occur simultaneously.
+
+3. Identify the different economic channels involved and explain why describing such a price shock as simply “good” or “bad” for Nigeria would provide an incomplete analysis.
+
+4. Support your explanation with evidence from the IMF report and at least one other source in this project.]
+
+**Model response:**
+
+1. Simultaneous Occurrence of Opposing Effects
+As asymmetric economic shocks operate across different sectors and levels of the economy, these opposing effects occur at the same time:
+
+* Macro-Fiscal / Sovereign Level (Positive Shock): Higher global energy and commodity prices boost export earnings and fiscal receipts for crude oil exporters like Nigeria. This strengthens the external balance (trade/current account balances) and increases government revenues.
+
+* Microeconomic / Household Level (Negative Shock): Higher global prices for essentials (fuel, food, and fertilizer) act as a cost-push shock. They directly increase domestic consumer prices (inflation) and elevate agricultural input costs. Households experience reduced purchasing power, which worsens poverty rates and heightens food insecurity.
+
+2. Economic Channels & Why Labeling Shocks "Good" or "Bad" Is Incomplete
+Economic Channels Involved:
+
+* Trade / Export Channel: Increases the value of crude oil and resource exports, expanding total gross domestic export revenues.
+Fiscal Revenue Channel: Translates higher export values into higher oil revenues, royalties, and government revenues.
+
+* Consumer Price / Inflation Channel: Transmits global price surges directly into the domestic Consumer Price Index (CPI)—particularly through food, imported food, energy, and transportation costs.
+
+* Agricultural Supply Channel: Elevates fertilizer and input costs, which compresses agricultural profit margins, suppresses yields, or raises local farm-gate prices.
+
+* Living Standards Channel: Directly erodes household real income, disproportionately impacting lower-income households whose budgets are heavily weighted toward basic food and energy.
+
+*Why Simple "Good" or "Bad" Labels are Incomplete:
+Labeling a global price shock simply as "good" or "bad" creates a false dichotomy because it conflates macroeconomic windfall gains with microeconomic household welfare losses:
+
+*Evaluating the shock solely at the aggregate fiscal level makes it appear beneficial (stronger external position and higher state revenue).
+Evaluating the shock solely at the household consumption level makes it appear detrimental (higher cost of living, reduced real income, elevated poverty, and food insecurity).
+An accurate economic analysis must capture both the positive macro-fiscal tailwinds and the negative micro-level socio-economic headwinds simultaneously.
+
+3. Supporting Evidence from Provided Sources
+Direct Evidence Supported by Sources:
+
+* IMF — Nigeria: 2026 Article IV Consultation: The report explicitly states: "Higher global fuel, food and fertilizer prices will improve exports and fiscal revenues, but also give rise to inflationary pressures, likely aggravating poverty and food insecurity."
+
+* World Bank — Nigeria Development Update (April 2026): Confirms the dual impact of global energy shocks, noting that while macroeconomic fundamentals improved, global energy price increases drive "mixed but largely manageable macroeconomic effects for Nigeria," while emphasizing that improving living conditions requires addressing persistent household-level pressures.
+
+* National Bureau of Statistics (NBS) — Consumer Price Index (CPI): Tracks how food and energy shocks transmit directly to consumers via specialized CPI indices, including the Food Index, Imported Food Index, and Energy Index.
+Inference vs. Direct Support
+
+* Directly Supported by Sources: The simultaneous surge in exports/fiscal revenues alongside increased inflation, poverty, and food insecurity is directly stated in the IMF and World Bank reports. The tracking of these price divisions in domestic inflation is directly established by the NBS CPI catalog.
+
+* Inference: The specific operational mechanism connecting fertilizer prices to reduced agricultural yields or compressed farm-gate margins represents an inference derived from standard supply-side economic theory, though the overarching risk to food security itself is directly stated in the sources]
+
