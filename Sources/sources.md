@@ -37,7 +37,7 @@ This source is primarily used to test:
 **Organization:** World Bank  
 **Publication date:** April 7, 2026  
 **Type:** Development/economic analysis  
-**URL:** [paste the World Bank URL here]
+**URL:** [https://openknowledge.worldbank.org/entities/publication/87d25440-6887-44dc-a83c-fdb931a9b7ee]
 
 ### Why this source was selected
 
@@ -68,7 +68,7 @@ This source is primarily used to test:
 **Organization:** Reuters  
 **Publication date:** August 8, 2024  
 **Type:** News report  
-**URL:** https://www.reuters.com/world/africa/deluge-protests-fuel-subsidies-prove-hard-abolish-2024-08-08/
+**URL:** [https://www.reuters.com/world/africa/deluge-protests-fuel-subsidies-prove-hard-abolish-2024-08-08/]
 
 ### Why this source was selected
 
@@ -97,7 +97,7 @@ This source is primarily used to test:
 **Organization:** National Bureau of Statistics (NBS)  
 **Publication date:** February 2026  
 **Type:** Official statistical data  
-**URL:** https://microdata.nigerianstat.gov.ng/index.php/catalog/154
+**URL:** [https://microdata.nigerianstat.gov.ng/index.php/catalog/154]
 
 ### Why this source was selected
 
@@ -128,7 +128,7 @@ This source is primarily used to test:
 **Organization:** National Bureau of Statistics (NBS)  
 **Publication date:** February 2026  
 **Type:** Official statistical data  
-**URL:** https://microdata.nigerianstat.gov.ng/index.php/catalog/157/related-materials
+**URL:** [https://microdata.nigerianstat.gov.ng/index.php/catalog/157/related-materials]
 
 ### Why this source was selected
 
