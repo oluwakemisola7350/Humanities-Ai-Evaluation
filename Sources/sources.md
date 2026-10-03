@@ -2,7 +2,7 @@
 
 This document records the sources used to develop and evaluate the questions in this project. Sources were selected to provide official statistics, institutional economic analysis, and independent reporting on Nigeria's fuel-price reforms, inflation, and household economic conditions.
 
-## Source 1 — International Monetary Fund
+## Source 1: International Monetary Fund
 
 **Title:** 2026 Article IV Consultation with Nigeria  
 **Organization:** International Monetary Fund (IMF)  
@@ -31,7 +31,7 @@ This source is primarily used to test:
 - ability to distinguish multiple effects from a single economic event
 
 
-## Source 2 — World Bank
+## Source 2: World Bank
 
 **Title:** Nigeria Development Update, April 2026: Nigeria's Tomorrow Must Start Today: The Case for Early Childhood Development  
 **Organization:** World Bank  
@@ -62,7 +62,7 @@ This source is primarily used to test:
 
 
 
-## Source 3 — Reuters
+## Source 3: Reuters
 
 **Title:** In deluge of protests, fuel subsidies prove hard to abolish  
 **Organization:** Reuters  
@@ -91,7 +91,7 @@ This source is primarily used to test:
 
 
 
-## Source 4 — National Bureau of Statistics
+## Source 4: National Bureau of Statistics
 
 **Title:** Consumer Price Index (CPI) — February 2026  
 **Organization:** National Bureau of Statistics (NBS)  
@@ -122,7 +122,7 @@ This source is primarily used to test:
 
 
 
-## Source 5 — National Bureau of Statistics
+## Source 5: National Bureau of Statistics
 
 **Title:** Premium Motor Spirit (Petrol) Price Watch — February 2026  
 **Organization:** National Bureau of Statistics (NBS)  
