@@ -72,7 +72,7 @@ Sources included:
 - **World Bank** — Nigeria Development Update, April 2026, covering macroeconomic conditions and household-level economic pressures.
 - **National Bureau of Statistics (NBS)** — Consumer Price Index and Premium Motor Spirit price data.
 
-Full source details and links are available in [`sources/sources.md`](sources/sources.md).
+Full source details and links are available in [`Sources/sources.md`](Sources/sources.md).
 
 ## Testing Method
 
