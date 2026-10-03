@@ -11,9 +11,8 @@ The questions focus on four capabilities:
 
 The questions are based on evidence documented in sources/sources.md.
 
-⸻
 
-Question 1 — Causal Reasoning
+### Question 1 — Causal Reasoning
 
 Prompt
 
@@ -39,9 +38,9 @@ Relevant sources
 * NBS Consumer Price Index
 * NBS Premium Motor Spirit Price Watch
 
-⸻
 
-Question 2 — Interpreting Inflation Data
+
+### Question 2 — Interpreting Inflation Data
 
 Prompt
 
@@ -65,9 +64,9 @@ Relevant sources
 
 * NBS Consumer Price Index — February 2026
 
-⸻
 
-Question 3 — Macroeconomic Conditions and Household Welfare
+
+### Question 3 — Macroeconomic Conditions and Household Welfare
 
 Prompt
 
@@ -93,9 +92,9 @@ Relevant sources
 * NBS Consumer Price Index
 * IMF — 2026 Article IV Consultation with Nigeria
 
-⸻
 
-Question 4 — Competing Economic Mechanisms
+
+### Question 4 — Competing Economic Mechanisms
 
 Prompt
 
@@ -123,7 +122,6 @@ Relevant sources
 * NBS Consumer Price Index
 * NBS Premium Motor Spirit Price Watch
 
-⸻
 
 Evaluation Design
 
